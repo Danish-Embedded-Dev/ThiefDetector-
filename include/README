@@ -1,0 +1,14 @@
+
+//not using any header file
+
+```src/main.c
+
+#include "header.h"
+
+int main (void)
+{
+ ...
+}
+```
+ 
+https://gcc.gnu.org/onlinedocs/cpp/Header-Files.html
